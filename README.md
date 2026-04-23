@@ -47,4 +47,10 @@ Guitars · Motorcycles · My bed · My keyboard · Club-Mate · Leberkäse · Re
 
 ---
 
-<sub>shoutout NINO, JULIX, MATTHI</sub>
+# Shoutout to
+ 
+| | Name | GitHub |
+|---|---|---|
+| <img src='https://github.com/julix2009.png?size=30' width='30'> | Wetzi | [@wetzii](https://github.com/wetzii) |
+| <img src='https://github.com/oninghg.png?size=30' width='30'> | Nino | [@oninghg](https://github.com/oninghg) |
+| <img src='https://github.com/Matthi1009.png?size=30' width='30'> | Matthi | [@Matthi1009](https://github.com/Matthi1009) |
