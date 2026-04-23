@@ -1,48 +1,63 @@
+# hey, ich bin wetzi. 👋
 
-# MY SELF
+> Java-Lernender · Arch-Nutzer · Eclipse-Hasser · Leberkäse-Enjoyer
 
-## I just try to learn Java
-I went to a very nice school ;) with really nice people like Fabian.  
-I like to make methods without sense.
+---
 
-> Don't believe that the "POS" - Test is easy
+## wer bin ich überhaupt
 
-## Eclipse Hate
-I hate Eclipse IDE because it's stupid. But I have to use it for school. In my opinion the fu##king editor is better.  
-> "Using Eclipse is like riding a bike… that constantly falls over for no reason."
+Schüler, der versucht Java zu lernen – an einer sehr netten Schule mit sehr netten Leuten wie Fabian.  
+Ich schreibe Methoden ohne Sinn. Das ist Kunst.
 
-## Linux
-I try to learn Linux. Now I have a dual boot with Windows and Arch. BTW I USE ARCH.  
-With Hyprland it looks very beautiful.
+> ⚠️ Unterschätz den POS-Test nicht. Ernst gemeint.
 
-I deleted my whole drive on a try.  
-But I think it's very funny to install random distros.
+---
 
-## Some Random I like
-I like guitars.  
-I like motorcycles.  
-I like my bed.  
-I like my keyboard.  
-I like Rescuzilla, he is a goat.  
-I like Leberkäse.  
-I like Club-Mate.  
-I like Red Bull Racing.
+## stack & skills
 
-## What Languages I learn
-+ Java --> main  
-+ Python --> sometimes  
-+ SQL --> too much  
-+ VBA --> too much  
-+ JavaScript --> too little
+![Java](https://img.shields.io/badge/Java-main%20grind-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-manchmal-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-leider%20viel-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![VBA](https://img.shields.io/badge/VBA-auch%20leider%20viel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-viel%20zu%20wenig-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-## Random Things I hate
-- Snakes  
-- Windows  
-- VBA  
-- BitLocker for no reason  
-- Secure Boot  
-- RTX 4060  
-- Eclipse IDE again...  
-- Club-Mate-Zero  
+---
 
-LG to NINO, JULIX, MATTHI
+## github stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DEIN_USERNAME&theme=tokyonight&hide_border=true" alt="streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DEIN_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEIN_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+</p>
+
+---
+
+## setup / linux situation
+
+- Dual Boot: **Windows** *(notwendiges Übel)* + **Arch** *(BTW I USE ARCH)*
+- WM: **Hyprland** – sieht tatsächlich nice aus
+- hab mal aus Versehen die ganze Platte gelöscht. War lustig. Würde ich wieder tun.
+- Neue Distro installieren ist einfach ein Hobby an sich
+
+---
+
+## was ich mag
+
+🎸 Gitarren · 🏍️ Motorräder · 🛏️ Mein Bett · ⌨️ Mein Keyboard  
+🧉 Club-Mate *(nicht Zero, das ist Verbrechen)* · 🥩 Leberkäse  
+🏎️ Red Bull Racing · 🦺 Rescuzilla – der ist ein Goat
+
+---
+
+## was mich nervt
+
+`Eclipse IDE` `Windows` `VBA` `Snakes` `BitLocker ohne Grund`  
+`Secure Boot` `RTX 4060` `Club-Mate-Zero` `Eclipse IDE nochmal`
+
+---
+
+<sub>LG an NINO, JULIX & MATTHI 👋</sub>
