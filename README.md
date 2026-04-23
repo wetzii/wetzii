@@ -1,32 +1,23 @@
-# hey, ich bin wetzi. 👋
+# wetzi
 
-> Java-Lernender · Arch-Nutzer · Eclipse-Hasser · Leberkäse-Enjoyer
-
----
-
-## wer bin ich überhaupt
-
-Schüler, der versucht Java zu lernen – an einer sehr netten Schule mit sehr netten Leuten wie Fabian.  
-Ich schreibe Methoden ohne Sinn. Das ist Kunst.
-
-> ⚠️ Unterschätz den POS-Test nicht. Ernst gemeint.
+Java student. Arch user. Eclipse hater. Currently learning things that may or may not be useful.
 
 ---
 
-## stack & skills
+## skills
 
-![Java](https://img.shields.io/badge/Java-main%20grind-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-manchmal-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-leider%20viel-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![VBA](https://img.shields.io/badge/VBA-auch%20leider%20viel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-viel%20zu%20wenig-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-main-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-sometimes-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-too%20much-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![VBA](https://img.shields.io/badge/VBA-also%20too%20much-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-not%20enough-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 ---
 
-## github stats
+## stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DEIN_USERNAME&theme=tokyonight&hide_border=true" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DEIN_USERNAME&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
@@ -36,28 +27,24 @@ Ich schreibe Methoden ohne Sinn. Das ist Kunst.
 
 ---
 
-## setup / linux situation
+## setup
 
-- Dual Boot: **Windows** *(notwendiges Übel)* + **Arch** *(BTW I USE ARCH)*
-- WM: **Hyprland** – sieht tatsächlich nice aus
-- hab mal aus Versehen die ganze Platte gelöscht. War lustig. Würde ich wieder tun.
-- Neue Distro installieren ist einfach ein Hobby an sich
+- Dual boot: Windows + Arch (btw I use Arch)
+- WM: Hyprland
+- Once wiped my entire drive on accident. Would do it again.
 
----
-
-## was ich mag
-
-🎸 Gitarren · 🏍️ Motorräder · 🛏️ Mein Bett · ⌨️ Mein Keyboard  
-🧉 Club-Mate *(nicht Zero, das ist Verbrechen)* · 🥩 Leberkäse  
-🏎️ Red Bull Racing · 🦺 Rescuzilla – der ist ein Goat
+> Don't underestimate the POS test.
 
 ---
 
-## was mich nervt
+## things I like
 
-`Eclipse IDE` `Windows` `VBA` `Snakes` `BitLocker ohne Grund`  
-`Secure Boot` `RTX 4060` `Club-Mate-Zero` `Eclipse IDE nochmal`
+Guitars · Motorcycles · My bed · My keyboard · Club-Mate · Leberkäse · Red Bull Racing · Rescuzilla
+
+## things I don't
+
+`Eclipse` `Windows` `VBA` `BitLocker for no reason` `Secure Boot` `RTX 4060` `Club-Mate Zero`
 
 ---
 
-<sub>LG an NINO, JULIX & MATTHI 👋</sub>
+<sub>shoutout NINO, JULIX, MATTHI</sub>
