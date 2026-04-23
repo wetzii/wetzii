@@ -36,7 +36,7 @@ Java student. Arch user. Eclipse hater. Currently learning things that may or ma
 > Don't underestimate the POS test.
 
 ---
-##My Rig
+## My Rig
 - **CPU**: AMD RYZEN 9 7900
 - **GPU**: AMD RADEON RX 7900XTX
 - **Mainboard**: MSI B659 GAMING PLUS WIFI
