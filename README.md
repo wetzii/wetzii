@@ -1,6 +1,6 @@
 # wetzi
 
-Java student. Arch user. Eclipse hater. Currently learning things that may or may not be useful.
+Java student. Arch user. Eclipse hater. Currently learning things that may or may not be useful. I think my school really streeses me, a job probalbly would give me more freetime in my life. But I like this pain and other people have to bleed out too.
 
 ---
 
@@ -35,6 +35,15 @@ Java student. Arch user. Eclipse hater. Currently learning things that may or ma
 
 > Don't underestimate the POS test.
 
+---
+##My Rig
+- **CPU**: AMD RYZEN 9 7900
+- **GPU**: AMD RADEON RX 7900XTX
+- **Mainboard**: MSI B659 GAMING PLUS WIFI
+- **PSU**: Random Gigabyte 1000 Watt Gold thing
+- **Cooling**: ARCTIC Liquid Freezer III PRO 360
+- **Case**: Corsair 3500X
+- **Fans**: Acrtic things and really bad Corsair RS FANS 
 ---
 
 ## things I like
