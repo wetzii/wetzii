@@ -17,12 +17,12 @@ Java student. Arch user. Eclipse hater. Currently learning things that may or ma
 ## stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DEIN_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wetzii&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=wetzii&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEIN_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wetzii&layout=compact&theme=tokyonight&hide_border=true" height="150" />
 </p>
 
 ---
