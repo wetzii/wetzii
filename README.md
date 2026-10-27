@@ -1,6 +1,5 @@
 # wetzi
 
-Java student. Arch user. Eclipse hater. Currently learning things that may or may not be useful. I think my school really streeses me, a job probalbly would give me more freetime in my life. But I like this pain and other people have to bleed out too.
 
 ---
 
